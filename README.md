@@ -11,9 +11,9 @@ Inspired by the [Beginner Projects list](https://github.com/jorgegonzalez/beginn
 Each project has its own folder with the source code and a short description.  
 
 Examples:
-    - 99 bottles
-    - Magic 8 Ball
-    - Pythagorean Triples Checker
+- **99 bottles**
+- **Magic 8 Ball**
+- **Pythagorean Triples Checker**
 
 ---
 
@@ -21,7 +21,7 @@ Examples:
 
 This repo is primarily for my personal learning, but if you find any mistakes I have made, feel free to open an issue or pull request.
 
---
+---
 
 ## Credits
 
