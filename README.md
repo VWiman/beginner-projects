@@ -1,16 +1,18 @@
 # Beginner Python Projects
 
 A collection of beginner-friendly Python projects I’ve completed while learning and practicing programming.  
-The goal of this repository is to practice problem-solving, improve coding skills, and track progress over time.  
+The goal of this repository is to practice problem-solving, improve coding skills, and track progress over time.
 
-Inspired by the [Beginner Projects list](https://github.com/jorgegonzalez/beginner-projects).
+Inspired by the [Beginner Projects list](https://github.com/jorgegonzalez/beginner-projects) and [Mega Project List](https://github.com/karan/Projects#data-structures).
 
 ---
 
 ## 📂 Projects Included
-Each project has its own folder with the source code and a short description.  
+
+Each project has its own folder with the source code and a short description.
 
 Examples:
+
 - **99 bottles**
 - **Magic 8 Ball**
 - **Pythagorean Triples Checker**
@@ -26,5 +28,8 @@ This repo is primarily for my personal learning, but if you find any mistakes I 
 ## Credits
 
 Project ideas come from the awesome [Beginner Projects list](https://github.com/jorgegonzalez/beginner-projects) by jorgegonzalez.
+
+Project ideas come from the awesome Mega Project List [Mega Project List](https://github.com/karan/Projects#data-structures).
+
 
 Code written by me as part of my learning journey.
